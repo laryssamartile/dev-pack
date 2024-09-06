@@ -11,6 +11,6 @@ export default defineConfig({
     },
   },
   build: {
-    outDir: 'public', // Define 'public' como o diretório de saída
+    outDir: 'dist', // Volta para o padrão 'dist'
   },
 });
